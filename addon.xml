@@ -26,7 +26,14 @@ SponsorBlock browser extension ported to Kodi's YouTube plugin.
 SponsorBlock is a crowdsourced project to skip sponsor segments in YouTube videos.
 Users submit when a sponsor happens and the add-on automatically skips sponsors it knows about.
         </description>
+        <description lang="de_DE">
+Die SponsorBlock-Browsererweiterung wurde auf das YouTube-Plugin von Kodi portiert.
+
+SponsorBlock ist ein Crowdsourcing-Projekt zum Überspringen von Sponsorsegmenten in YouTube-Videos.
+SponsorBlock wird automatisch Werbeblöcke überspringen, die von Usern gemeldet wurden.
+        </description>
         <disclaimer lang="en_GB">This is an unoffical port of the SponsorBlock browser extension</disclaimer>
+        <disclaimer lang="de_DE">Dies ist ein unoffizieller Port der SponsorBlock Browsererweiterung</disclaimer>
         <news>
 [0.2.0]
 - Support for SponsorBlock categories
